@@ -1,0 +1,10 @@
+ 1 chips 50 2
+ 2 aaloo 60 3
+ 3 pyaj 80 5
+ 4 maggie 100 6
+ 5 hajmola 32 1
+ 6 closeup 40 1
+ 7 dettol 35 2
+ 8 pepsodent 50 2
+ 9 surfexcel 80 2
+ 10 tatasalt 52 1
